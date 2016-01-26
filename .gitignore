@@ -1,0 +1,63 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+# =============== #
+# Custom Project  #
+# =============== #
+[Aa]ssets/Heavy Assets/**
+Assets/Heavy Assets/
+[Aa]ssets/SWS/Scripts/Editor/Resources/**
+Assets/SWS/Scripts/Editor/Resources/
+
+Assembly-UnityScript.unityproj
+Assembly-UnityScript.pidb
+Assembly-UnityScript-vs.unityproj
+Assembly-UnityScript-firstpass.unityproj
+Assembly-UnityScript-firstpass.pidb
+Assembly-UnityScript-firstpass-vs.unityproj
+Assembly-CSharp-Editor-firstpass-vs.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.pidb
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor.pidb
+Assembly-CSharp-firstpass-vs.csproj
+Assembly-CSharp-firstpass.pidb
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp.pidb
+Assembly-UnityScript-Editor-vs.unityproj
+Assembly-UnityScript-Editor.unityproj
+Assembly-CSharp-firstpass.csproj

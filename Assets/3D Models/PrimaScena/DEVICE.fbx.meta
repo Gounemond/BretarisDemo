@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 959dcd4b1652dcb44969689ceef6983b
+timeCreated: 1441902253
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CoperchiettoTaglio_mesh
+    100002: //RootNode
+    100004: DeviceBretaris_mesh
+    100006: DeviceBretaris_mesh_MeshPart0
+    100008: DeviceBretaris_mesh_MeshPart1
+    100010: pCube2
+    100012: pCube5
+    100014: pCylinder9
+    100016: polyToSubd1
+    100018: Senzatappo_GRP
+    100020: TappoBretaris_mesh
+    100022: TastoBretaris_mesh
+    100024: VaschettaInterno_GRP
+    400000: CoperchiettoTaglio_mesh
+    400002: //RootNode
+    400004: DeviceBretaris_mesh
+    400006: DeviceBretaris_mesh_MeshPart0
+    400008: DeviceBretaris_mesh_MeshPart1
+    400010: pCube2
+    400012: pCube5
+    400014: pCylinder9
+    400016: polyToSubd1
+    400018: Senzatappo_GRP
+    400020: TappoBretaris_mesh
+    400022: TastoBretaris_mesh
+    400024: VaschettaInterno_GRP
+    2300000: CoperchiettoTaglio_mesh
+    2300002: DeviceBretaris_mesh_MeshPart0
+    2300004: DeviceBretaris_mesh_MeshPart1
+    2300006: pCube2
+    2300008: pCube5
+    2300010: pCylinder9
+    2300012: polyToSubd1
+    2300014: TappoBretaris_mesh
+    2300016: TastoBretaris_mesh
+    3300000: CoperchiettoTaglio_mesh
+    3300002: DeviceBretaris_mesh_MeshPart0
+    3300004: DeviceBretaris_mesh_MeshPart1
+    3300006: pCube2
+    3300008: pCube5
+    3300010: pCylinder9
+    3300012: polyToSubd1
+    3300014: TappoBretaris_mesh
+    3300016: TastoBretaris_mesh
+    4300000: TappoBretaris_mesh
+    4300002: CoperchiettoTaglio_mesh
+    4300004: DeviceBretaris_mesh_MeshPart0
+    4300006: DeviceBretaris_mesh_MeshPart1
+    4300008: TastoBretaris_mesh
+    4300010: pCube2
+    4300012: pCylinder9
+    4300014: polyToSubd1
+    4300016: pCube5
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
